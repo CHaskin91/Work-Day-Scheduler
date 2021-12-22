@@ -13,3 +13,4 @@ function update() {
 update();
 // setInterval to update every second for timer to run continuously
 setInterval(update, 1000);
+
