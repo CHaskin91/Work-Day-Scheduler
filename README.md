@@ -2,8 +2,8 @@
 A calendar app for scheduling your work day.
 
 ## Links
-* 
-* 
+* Deployed URL
+* GitHub Repo
 
 ## Features
 * HTML

@@ -68,7 +68,7 @@ body {
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
     background-color: steelblue;
-    color: white;
+    color: rgb(194, 231, 243);
   }
   
   .saveBtn i:hover {
